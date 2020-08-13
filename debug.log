@@ -1,0 +1,16 @@
+[0313/140347.664:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0313/140349.180:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/141349.195:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/141349.196:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/141849.180:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/143349.200:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/144928.310:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/154049.560:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/154919.087:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/154941.561:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/155226.403:ERROR:process_info.cc(359)] UncheckedAllocate
+[0313/155226.403:ERROR:process_info.cc(359)] UncheckedAllocate
+[0313/155226.642:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0313/190217.149:ERROR:process_info.cc(359)] UncheckedAllocate
+[0314/171843.597:ERROR:process_info.cc(359)] UncheckedAllocate
+[0317/134032.521:ERROR:crash_report_database_win.cc(428)] unexpected header
